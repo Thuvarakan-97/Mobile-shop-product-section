@@ -29,3 +29,5 @@ npm run build
 ```
 
 Builds the app for production to the `build` folder.<br>
+
+![image](https://user-images.githubusercontent.com/82148000/224896146-c47b61e6-c820-445a-9fa3-df1961837f7d.png)
